@@ -1,0 +1,24 @@
+2025-12-29 16:45:17,817 - INFO - Extracting zip file
+2025-12-29 16:45:17,821 - INFO - Extraction completed in 0:00:00.003156
+2025-12-29 16:45:18,759 - INFO - Uploaded Source/source3.xml to S3
+2025-12-29 16:45:18,992 - INFO - Uploaded Source/source3.json to S3
+2025-12-29 16:45:19,228 - INFO - Uploaded Source/source1.csv to S3
+2025-12-29 16:45:19,467 - INFO - Uploaded Source/source1.json to S3
+2025-12-29 16:45:19,705 - INFO - Uploaded Source/source2.csv to S3
+2025-12-29 16:45:19,941 - INFO - Uploaded Source/source3.csv to S3
+2025-12-29 16:45:20,183 - INFO - Uploaded Source/source2.xml to S3
+2025-12-29 16:45:20,417 - INFO - Uploaded Source/source2.json to S3
+2025-12-29 16:45:20,652 - INFO - Uploaded Source/source1.xml to S3
+2025-12-29 16:45:20,906 - INFO - Downloaded Source/source3.xml from S3
+2025-12-29 16:45:21,159 - INFO - Downloaded Source/source3.json from S3
+2025-12-29 16:45:21,421 - INFO - Downloaded Source/source1.csv from S3
+2025-12-29 16:45:21,668 - INFO - Downloaded Source/source1.json from S3
+2025-12-29 16:45:21,910 - INFO - Downloaded Source/source2.csv from S3
+2025-12-29 16:45:22,163 - INFO - Downloaded Source/source3.csv from S3
+2025-12-29 16:45:22,406 - INFO - Downloaded Source/source2.xml from S3
+2025-12-29 16:45:22,660 - INFO - Downloaded Source/source2.json from S3
+2025-12-29 16:45:22,906 - INFO - Downloaded Source/source1.xml from S3
+2025-12-29 16:45:22,925 - INFO - Saved transformed CSV
+2025-12-29 16:45:23,167 - INFO - Uploaded Destination/final_transformed_data.csv to S3
+2025-12-29 16:45:26,173 - INFO - Loaded data into RDS table etl_table
+2025-12-29 16:45:26,174 - INFO - ETL Pipeline Completed Successfully
